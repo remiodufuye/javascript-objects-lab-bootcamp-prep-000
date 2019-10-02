@@ -1,2 +1,2 @@
 
-var meals = {};
+var recipes = {};
